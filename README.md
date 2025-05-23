@@ -2,6 +2,5 @@
 
 This mod is purely unfinished and will update often
 
-Please report bugs in dm's
+Please report bugs in my [discord](https://discord.gg/dTeafMTU) server 
 
-Discord User: @heptatonic_scale
